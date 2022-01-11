@@ -1,7 +1,0 @@
-<html>
-<title>Pedro Mota</title>
-</head>
-<body>
-<a> Olá, sou o Pedro! Sou iniciante no desenvolvimento e busco vaga na área! </a>
-</body>
-</html>
